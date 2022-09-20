@@ -1,0 +1,44 @@
+.imgborder{
+    border-radius: 15px; 
+}
+
+.container{
+    display: flow-root;
+}
+
+p{
+    color: black;
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+ul{
+    color: black;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+h1{
+    flex-direction: column;
+    font-family: Helvetica;
+    color: white;
+    background-color: midnightblue;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 34px;
+}
+
+body{
+    padding-top: 10px;
+    background-color: white;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+h2{
+    color: midnightblue;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 20px;
+}
